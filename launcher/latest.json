@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Locker, Friends, flagged mods, crash help, Discord status.",
-  "pub_date": "2026-11-21T21:00:00Z",
+  "version": "0.1.4",
+  "notes": "Your Luna Client cosmetics in 3D in the Locker.",
+  "pub_date": "2026-11-21T22:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYlBVQTBvNk5ieCs1dTdPWUt0dVQxbU1vMWZQM1pjcHRhVVlYK2FlS0c5UGpYTkREbkhmdG10eHA3aUxqSlVudjFrOGJ4KzVmelVMZWhrdWlrMzd6Z2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg1MjE0CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKTEhlSFlHbWRvdkhQTm1SSnRoMm9lZ2tYc0ltbCtOTG92MXE0cWpLR3BqOXBZZTZBY29xYnhldWlScXR1NTBZaDZIVFhJNHFLQUN2WWJYd2hZMWhZQVE9PQo=",
-      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.2/LunaLauncher_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYkh5eThGN0Jzd0RSdVFzNUgydWdSRngrYy85cFBlTk5ZZlBOK0l4N3dCNGJuamlyRFRDK0NHNmU2cFpROE9zRlhkaURJTFVMZVlwRHJvelpYNDZoK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2ODY3CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKK2doMlpJT1BOemlwNnZTRDFJbmw3RlR6ZzcxYzRNQXdhSncwYlZpQnNCcmlJNCtlNStWdmZ5WXFyT0U2YjBvVjRTVjEwbzhFbkFROUU3TjJCcG8rQXc9PQo=",
+      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.4/LunaLauncher_0.1.4_x64-setup.exe"
     }
   }
 }
