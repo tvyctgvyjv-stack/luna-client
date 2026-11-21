@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.0",
-    "notes":  "First beta of Luna Launcher.",
-    "pub_date":  "2026-11-21T18:00:00Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYk9zVm1yRGdtbHJzZXZMY1JXQ1prb1NHVHpIYjBGUWVqMGJ5WDJyNlo2Z2NXalpHL0tkWS9TbzlRN3VWY1pqcG9xTDc1ZjhxdFE2YjRFQ1JkVDNGMGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc3NzA4CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKR1pyTk91OW9qRUNWTXpLVWJzdXVqeXRBL0swcnJEWUladitaMWZJVDYvek1HRW1tSGpHZm55eG9WbU5laEVsUzRQT05uYjRsTFVDQXBtaXhOQzd3Qnc9PQo=",
-                                             "url":  "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/v0.42.0/LunaLauncher_0.1.0_x64-setup.exe"
-                                         }
-                  }
+  "version": "0.1.1",
+  "notes": "About now shows the real version.",
+  "pub_date": "2026-11-21T19:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYkFCQi82UjVibVI0NUMzT2Y5Uml6cWxtckt6L1ZFMDVseHY0UnBpdUQ4c1dzcFBaUS9mYlBjam5MbStNMHdWbjR2Zk5QcU5nL0NtWDNCanJVTnd3RHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgxNTA3CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKY2xyd3d3WFdvUDI5MUhGRGFDZjBQM1lTQ3h1dWVIWHNza2ZERHREYXlwa0pIQWhCQ2tiQW5WTS9PTnJHdjdHbjRXRFErYm9CQXE2VFptNUpLR29aQ1E9PQo=",
+      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.1/LunaLauncher_0.1.1_x64-setup.exe"
+    }
+  }
 }
