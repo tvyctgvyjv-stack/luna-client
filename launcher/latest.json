@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "About now shows the real version.",
-  "pub_date": "2026-11-21T19:00:00Z",
+  "version": "0.1.2",
+  "notes": "Locker, Friends, flagged mods, crash help, Discord status.",
+  "pub_date": "2026-11-21T21:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYkFCQi82UjVibVI0NUMzT2Y5Uml6cWxtckt6L1ZFMDVseHY0UnBpdUQ4c1dzcFBaUS9mYlBjam5MbStNMHdWbjR2Zk5QcU5nL0NtWDNCanJVTnd3RHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgxNTA3CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKY2xyd3d3WFdvUDI5MUhGRGFDZjBQM1lTQ3h1dWVIWHNza2ZERHREYXlwa0pIQWhCQ2tiQW5WTS9PTnJHdjdHbjRXRFErYm9CQXE2VFptNUpLR29aQ1E9PQo=",
-      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.1/LunaLauncher_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYlBVQTBvNk5ieCs1dTdPWUt0dVQxbU1vMWZQM1pjcHRhVVlYK2FlS0c5UGpYTkREbkhmdG10eHA3aUxqSlVudjFrOGJ4KzVmelVMZWhrdWlrMzd6Z2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg1MjE0CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKTEhlSFlHbWRvdkhQTm1SSnRoMm9lZ2tYc0ltbCtOTG92MXE0cWpLR3BqOXBZZTZBY29xYnhldWlScXR1NTBZaDZIVFhJNHFLQUN2WWJYd2hZMWhZQVE9PQo=",
+      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.2/LunaLauncher_0.1.2_x64-setup.exe"
     }
   }
 }
