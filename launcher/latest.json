@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Your Luna Client cosmetics in 3D in the Locker.",
-  "pub_date": "2026-11-21T22:30:00Z",
+  "version": "0.1.5",
+  "notes": "Smooth 3D cosmetics in the Locker, a Badges tab, landscape pictures for instances, performance profiles and more settings.",
+  "pub_date": "2026-11-23T09:37:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYkh5eThGN0Jzd0RSdVFzNUgydWdSRngrYy85cFBlTk5ZZlBOK0l4N3dCNGJuamlyRFRDK0NHNmU2cFpROE9zRlhkaURJTFVMZVlwRHJvelpYNDZoK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg2ODY3CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKK2doMlpJT1BOemlwNnZTRDFJbmw3RlR6ZzcxYzRNQXdhSncwYlZpQnNCcmlJNCtlNStWdmZ5WXFyT0U2YjBvVjRTVjEwbzhFbkFROUU3TjJCcG8rQXc9PQo=",
-      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.4/LunaLauncher_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYkVGREVyMHJOVTNzRmV1OVc5OHNQcFpITVBmdVhKNU5BRGpBR0xmbWY0cENUMTNRRTNaZnFmbDlnVGRjWGg0ZGlyOG5CdUFOc2hURThkWWJ4eUtKcFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI2NTEwCWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKckRZSGRxbU4xM0kvOGxpb3gxNnNJYWFGdC9jMmQzMHN6RC80RG1pUGJsYkRXS0xYL0ZBYUtkME1ma3FoSHFKbDdjb1M4QXI0OWllWllSRkN2akJYQUE9PQo=",
+      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.5/LunaLauncher_0.1.5_x64-setup.exe"
     }
   }
 }
