@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Luna Beta badge (green) in the Locker, shown before your name in game.",
-  "pub_date": "2026-11-24T08:45:59Z",
+  "version": "0.1.7",
+  "notes": "Several Microsoft accounts, capes and skins worn in game, a Locker shop with playtime quests, mods fixed before playing.",
+  "pub_date": "2026-11-25T09:30:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYklNRlQxUys1Q05zTGhNN3lGbFBIRkFqLzNPWjN1YzFEeVdxM1h0Z3kxQk5MVWQwUVZ1RlpoZStMWktzWWQ2UmladWZjY1Rjazg2bHNvanRYVEM4L3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA5OTQ0CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYKaE1TRFg5emlTdVJOTkxjb0dMbGJWMVRpMUVURzZSTWhrMmhkZmtwRE92TTdyYk0xNjNZc1A5SEg5c0FhWjN5MlM3S21jWmlKSU43Sk1YQVZITlI1Q2c9PQo=",
-      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.6/LunaLauncher_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3NMUjg2cUMyYkdtV2wvUWdhSWpPSy9LMVJNSFdJZE4xcjNKd1NtSDQ2NDRSMjV3cDFGdERwY0haeFpDMmlTTUFyRW1sdllJeXVzQVFGa08zVzd2amdYZEhUUlYvemdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTk5MDQ4CWZpbGU6THVuYSBMYXVuY2hlcl8wLjEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcKZ3lQWlVEelhnblpZeXU3NFFlN0VIREE5VU1GNldXS3BJa2dKU2pEZDY3b0ZNQjZNVnRlTEkrdUFQQUFTd0pERDRma1pQcVZaSUJZSndCNGtMOHNxQ1E9PQo=",
+      "url": "https://github.com/tvyctgvyjv-stack/luna-client/releases/download/launcher-v0.1.7/LunaLauncher_0.1.7_x64-setup.exe"
     }
   }
 }
